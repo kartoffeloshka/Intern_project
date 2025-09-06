@@ -1,1 +1,1 @@
-# Intern_project
+https://github.com/kartoffeloshka/Intern_project.git

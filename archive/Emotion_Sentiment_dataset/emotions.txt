@@ -1,0 +1,11 @@
+List of emotions
+
+angry
+disgust
+fear
+happy
+neutral
+sad
+surprise
+
+note that contempt can be in class of disgust
